@@ -6,4 +6,4 @@ Classificação de Qualidade de Café (Coffee Quality Data - CQI May-2023): Ness
 
 Classificação de Imagens de Tipos de Bolas (30 Types of Balls Updated - Image Classification): Nessa abordagem, são utilizadas imagens de diferentes tipos de bolas para treinar um modelo de classificação capaz de identificar corretamente o tipo de bola presente em uma imagem desconhecida.
 
-Fique a vontade para baixar e também fazer seus teste usando o mesmo dataset. [datasets](links.txt)
+Fique a vontade para baixar e também fazer seus teste usando o mesmo [dataset](links.txt)
