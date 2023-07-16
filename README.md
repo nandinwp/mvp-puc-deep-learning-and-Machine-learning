@@ -1,4 +1,5 @@
-#MVP - PUC Deep Learning and Machine Learning
+# MVP - PUC Deep Learning and Machine Learning
+
 Este repositório contém duas abordagens distintas:
 
 Classificação de Qualidade de Café (Coffee Quality Data - CQI May-2023): Nessa abordagem, são utilizados dados sobre a qualidade do café para criar um modelo de classificação que pode prever a qualidade do café com base em diferentes características.
