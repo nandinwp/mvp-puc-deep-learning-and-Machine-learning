@@ -1,2 +1,4 @@
 https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi
 
+https://www.kaggle.com/datasets/gpiosenka/balls-image-classification?select=train
+
